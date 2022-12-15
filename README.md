@@ -1,5 +1,5 @@
 ## Hacker News Clone
-Site: [Static Hacker News](https://hn-next.vercel.app/)
+Site: [Hacker News](https://hacker-news-stories-new.netlify.app/)
 
 A Hacker News clone built with [Hacker News API](https://github.com/HackerNews/API) and [Next.js](https://github.com/vercel/next.js).
 
